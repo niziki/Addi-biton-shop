@@ -1,0 +1,24 @@
+{
+  "name": "Addi-biton-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niziki/Addi-biton-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niziki/Addi-biton-shop/issues"
+  },
+  "homepage": "https://github.com/niziki/Addi-biton-shop#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "normalize.css": "^8.0.1"
+  }
+}
